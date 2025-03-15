@@ -1,4 +1,4 @@
-FROM neo4j:5.22.0
+FROM neo4j
 
 
 ENV NEO4JLABS_PLUGINS '[ "apoc" ]'
